@@ -7,4 +7,6 @@ During the research work I am planning to learn and usderstand these topics myse
 
 You might find here other useful writings, like WriteUps for retired HTB boxes, or useful link collections to learn and dig deeper into technical things, privileges escalation methods, codes.
 
+ATTENTION: I am still learning, these writings represents my understanding of topics, I might think thongs wrong or don't uderstand fully, be aware!
+
 If you have any advices or questions feel free to contact me here in Github.
